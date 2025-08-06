@@ -1,15 +1,11 @@
 <div align="center">
 
-
- 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2¢er=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Russel's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)](https://git.io/typing-svg)
 <br>
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>   I'm russel sasmith</h1>
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>   I'm Russel Sasmith</h1>
 
 
 <h3 align="center">
@@ -25,8 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russelsasmith&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="russelsasmith" /> </p>
 
-
-- 🔭 I’m currently working on **Earthsomeweb.vercel.app**
 
 - 🌱 I’m currently learning **Three.js,DSA**
 
